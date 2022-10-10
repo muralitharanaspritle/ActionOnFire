@@ -1,6 +1,6 @@
 name: Run Script
 
-on:[push]
+on: [push]
 
 jobs:
   build:
